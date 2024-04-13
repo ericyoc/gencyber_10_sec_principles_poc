@@ -5,7 +5,7 @@ The GenCyber 10 Security First Principles are a set of fundamental best practice
 ## Inspired by Press Release from NSA on GenCyber
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1618775/nsas-gencyber-reaches-new-territories/
 
-## Principles
+## 10 Security First Principles
 
 1. **Domain Separation**: Separating different network domains and resources based on their sensitivity and criticality.
 2. **Process Isolation**: Running different processes in separate environments to prevent unauthorized access and data leakage.
@@ -18,7 +18,7 @@ https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Arti
 9. **Minimization**: Minimizing the collection, storage, and use of sensitive data to reduce the risk of data breaches and privacy violations.
 10. **Fault Tolerance**: Designing systems to be resilient and able to continue operating even in the presence of failures or attacks.
 
-## Importance of Each Principle
+## Importance of Each Security First Principle
 
 Each of the GenCyber 10 Security First Principles plays a crucial role in enhancing the overall security of a system. They address different aspects of security and provide a comprehensive approach to protecting against various threats and vulnerabilities.
 
@@ -33,7 +33,7 @@ Each of the GenCyber 10 Security First Principles plays a crucial role in enhanc
 - **Minimization** reduces the risk of data breaches and privacy violations by minimizing the collection, storage, and use of sensitive data.
 - **Fault Tolerance** ensures that systems can continue operating even in the presence of failures or attacks.
 
-## Example Security Controls
+## Example Security Controls for Each Security First Principle
 
 Here are some example security controls that can be implemented for each of the GenCyber 10 Security First Principles:
 
@@ -48,7 +48,7 @@ Here are some example security controls that can be implemented for each of the 
 9. **Minimization**: Data minimization, retention policies, secure deletion.
 10. **Fault Tolerance**: Redundancy, failover mechanisms, incident response plans.
 
-## Python Script
+## GenCyber 10 Security First Principles Python Script
 
 The provided Python script demonstrates the implementation of the GenCyber 10 Security First Principles through a set of functions. Each function focuses on a specific principle and shows how it can be applied in code.
 
@@ -67,7 +67,7 @@ The script includes the following functions:
 
 The script also includes a `main` function that demonstrates the usage of each principle by calling the corresponding functions.
 
-## Security First Principles Table
+## GenCyber 10 Security First Principles Table
 
 | Security First Principle | Description | Before | After |
 |--------------------------|-------------|--------|-------|
