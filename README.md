@@ -5,9 +5,6 @@ The GenCyber 10 Security First Principles are a set of fundamental best practice
 ## Inspired by Press Release from NSA on GenCyber
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2530813/gencyber-call-for-proposals/
 
-## Related Resources
-https://www.clark.center/c/gencyber
-
 ## 10 Security First Principles
 
 1. **Domain Separation**: Separating different network domains and resources based on their sensitivity and criticality.
@@ -86,3 +83,6 @@ The script also includes a `main` function that demonstrates the usage of each p
 | 10. Fault Tolerance      | Designing systems to be resilient and able to continue operating even in the presence of failures or attacks. | No fault tolerance measures. | Fault tolerance implemented by handling database connection errors and using local cache as a fallback. |
 
 This table provides an overview of the 10 Security First Principles, their descriptions, and the before and after states as demonstrated by the functions in the provided Python script.
+
+## Related Resources
+https://www.clark.center/c/gencyber
