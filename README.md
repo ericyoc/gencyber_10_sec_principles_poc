@@ -3,7 +3,10 @@
 The GenCyber 10 Security First Principles are a set of fundamental best practices and guidelines for cybersecurity. They were developed as part of the GenCyber program, which is a cybersecurity education initiative funded by the National Security Agency (NSA) and the National Science Foundation (NSF). These principles provide a foundation for good cybersecurity habits and practices.
 
 ## Inspired by Press Release from NSA on GenCyber
-https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1618775/nsas-gencyber-reaches-new-territories/
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2530813/gencyber-call-for-proposals/
+
+## Related Resources
+https://www.clark.center/c/gencyber
 
 ## 10 Security First Principles
 
