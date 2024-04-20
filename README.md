@@ -90,3 +90,7 @@ This table provides an overview of the 10 Security First Principles, their descr
 
 ## Related Resources
 https://www.clark.center/c/gencyber
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
